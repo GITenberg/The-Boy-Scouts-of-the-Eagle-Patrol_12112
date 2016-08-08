@@ -1,0 +1,35 @@
+_repo: The-Boy-Scouts-of-the-Eagle-Patrol_12112
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Lawton, Captain Wilbur
+    - Payson, Howard
+    - West, Marvin
+    - Deering, Fremont B.
+    - Lawton, Wilbur
+    - Dexter J. Forrester
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcsh 'Long Island (N.Y.) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Boy Scouts of the Eagle Patrol
+url: http://www.gutenberg.org/ebooks/12112
